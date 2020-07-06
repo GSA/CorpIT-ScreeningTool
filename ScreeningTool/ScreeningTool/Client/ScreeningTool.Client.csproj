@@ -21,4 +21,8 @@
     <ProjectReference Include="..\Shared\ScreeningTool.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\images\gsa\" />
+  </ItemGroup>
 </Project>
